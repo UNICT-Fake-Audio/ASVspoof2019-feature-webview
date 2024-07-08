@@ -1,8 +1,8 @@
 # DatasetWebview
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.2.
+This project has been deprecated, the new web application source code is available [here](https://github.com/UNICT-Fake-Audio/audio-datasets-overview).
 
-[Live Demo](https://unict-fake-audio.github.io/ASVspoof2019-feature-webview/dataset-webview/)
+[Live Demo](https://unict-fake-audio.github.io/audio-datasets-overview/#/)
 
 ## Reference
 
